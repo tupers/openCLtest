@@ -1,0 +1,8 @@
+﻿  main.c
+  CL_utils.c
+e:\vsproject\opencltest\opencltest\cl_utils.c(22): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsproject\opencltest\opencltest\cl_utils.c(73): warning C4018: “<”: 有符号/无符号不匹配
+e:\vsproject\opencltest\opencltest\cl_utils.c(88): warning C4098: “CL_deviceInfo”:“void”函数返回值
+  正在生成代码...
+  openCLtest.vcxproj -> E:\VSproject\openCLtest\x64\Debug\openCLtest.exe
+  openCLtest.vcxproj -> E:\VSproject\openCLtest\x64\Debug\openCLtest.pdb (Partial PDB)

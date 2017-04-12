@@ -3,7 +3,7 @@
 int main()
 {
 	CL_isSupport();
-	CL_deviceInfo();
+	CL_deviceInfo("NVIDIA");
 	getchar();
 	return 0;
 }

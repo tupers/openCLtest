@@ -5,4 +5,4 @@
 #include <CL/cl.h>
 
 int CL_isSupport();
-void CL_deviceInfo();
+void CL_deviceInfo(char* platform_name);
